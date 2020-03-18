@@ -7,7 +7,7 @@ Link to final project assignment: https://github.com/aprilbingham-neu/seainfo615
 # Github instructions
 
 ## Project repo
-https://github.com/SEAINFO6150/seainfo6150-final-project-jing-fu
+https://github.com/SEAINFO6150/seainfo6150-final-project-team-2
 
 ## Forking and cloning repo and adding upstream
 1. Go to the team git repo for your team from above
@@ -18,8 +18,8 @@ https://github.com/SEAINFO6150/seainfo6150-final-project-jing-fu
 6. Open command line/terminal window and use these commands in a directory where you have admin permissions
 ```
 git clone [copied link]
-cd seainfo6150-final-project-jing-fu
-git remote add upstream https://github.com/SEAINFO6150/seainfo6150-final-project-jing-fu
+cd seainfo6150-final-project-team-2
+git remote add upstream https://github.com/SEAINFO6150/seainfo6150-final-project-team-2
 ```
 
 ## Pulling latest changes from team repo
